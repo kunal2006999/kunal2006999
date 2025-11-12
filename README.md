@@ -49,9 +49,14 @@ Extracted actionable insights from structured datasets.
 
 ### 🏅 Certifications
 <p>
-  <img src="https://img.shields.io/badge/Postman%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Visualization%20Using%20Python-00599C?style=for-the-badge" />
+  <img src="https://github.com/kunal2006999/kunal2006999/blob/main/Screenshot%202025-11-13%20040419.png" width="200" />
+  <img src="https://github.com/kunal2006999/kunal2006999/blob/main/Python%20For%20Data%20Science_page-0001.jpg" width="200" />
+  <img src="https://github.com/kunal2006999/kunal2006999/blob/main/Data%20Visualization%20With%20Python_page-0001.jpg" width="200" />
+  <img src="https://github.com/kunal2006999/kunal2006999/blob/main/Data%20Analysis%20With%20Python_page-0001.jpg" width="200" />
+  <img src="https://github.com/kunal2006999/kunal2006999/blob/main/Kunal%20Sharma%20-%20Intro%20to%20Machine%20Learning%20(1).png" width="200" />
+  <img src="https://github.com/kunal2006999/kunal2006999/blob/main/Kunal%20Sharma%20-%20Intermediate%20Machine%20Learning.png" width="200" />
+  <img src="https://github.com/kunal2006999/kunal2006999/blob/main/Kunal%20Sharma%20-%20Intro%20to%20SQL.png" width="200" />
+  <img src="https://github.com/kunal2006999/kunal2006999/blob/main/Kunal%20Sharma%20-%20Advanced%20SQL.png" width="200" />
 </p>
 
 

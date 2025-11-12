@@ -14,48 +14,29 @@
 
 ### 🧠 Skills & Tools
 
-#### 💻 Programming
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-#### 🧩 Core Concepts
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-1F425F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-#### 🧮 Data Science & Tools
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
-#### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
-</p>
+💻 Programming
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
+🧩 Core Concepts
+<p> <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-1F425F?style=for-the-badge" /> <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" /> </p>
+🧮 Data Science & Tools
+<p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-00599C?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> </p>
+⚙️ Backend & APIs
+<p> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" /> </p>
 
 ---
 
 ### 🧩 Notable Projects
-- 🏠 **House Prices – Advanced Regression Techniques**  
-  Regression modeling project using **Python, Pandas, NumPy, and Scikit-Learn**  
-  *Focused on feature engineering and model optimization.*
+🏠 House Prices – Advanced Regression Techniques
+Regression modeling project using Python, Pandas, NumPy, and Scikit-Learn
+Focused on feature engineering and model optimization.
 
-- 📊 **Data Visualization Using Python**  
-  Created interactive visualizations with **Matplotlib & Seaborn**  
-  *Derived insights from real-world datasets.*
+🛒 Supermarket Inventory Management System
+Designed and implemented a backend system for managing products, stock, and billing.
+Built using Java, Spring Boot, and REST APIs with role-based access and analytics.
 
-- 🔍 **Data Analysis Using Python**  
-  Performed end-to-end data cleaning, wrangling, and EDA on structured datasets.
+💾 MySQL Project — Data Cleaning & EDA
+Conducted end-to-end data cleaning, transformation, and exploratory data analysis using MySQL.
+Extracted actionable insights from structured datasets.
 
 ---
 
@@ -63,6 +44,16 @@
 💡 Competitive Programmer at **MSA IIIT Dharwad**  
 📈 Regularly practicing on **LeetCode, Codeforces, and CodeChef**  
 🎯 Focused on mastering **problem-solving and algorithmic thinking**
+
+---
+
+### 🏅 Certifications
+<p>
+  <img src="https://img.shields.io/badge/Postman%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization%20Using%20Python-00599C?style=for-the-badge" />
+</p>
+
 
 ---
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
-<h3 align="center">2nd Year CSE Student | Data Science Enthusiast | Competitive Programmer</h3>
+<h3 align="center">2nd Year CSE Student</h3>
 
 ---
 

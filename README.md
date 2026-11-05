@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-🎓 I'm a 2nd-year Computer Science student at **IIIT Dharwad**  
+🎓 I'm a 3rd-year Computer Science student at **IIIT Dharwad**  
 💻 Passionate about **Data Science, Backend Development, and Competitive Programming**  
 📚 Currently exploring **Machine Learning, APIs, and Data Visualization**  
 🔍 Open to work as an **Intern** in tech-driven domains  
